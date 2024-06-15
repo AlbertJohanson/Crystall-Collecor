@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crystal Collector", "Crystal Collector\Crystal Collector.csproj", "{2B4EB1C9-E24A-4C2D-A265-62963A53F0B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomTypes", "CustomTypes\CustomTypes.csproj", "{B9685A4E-902B-4FE0-BE2D-7F78DE604D1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B4EB1C9-E24A-4C2D-A265-62963A53F0B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B4EB1C9-E24A-4C2D-A265-62963A53F0B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B4EB1C9-E24A-4C2D-A265-62963A53F0B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B4EB1C9-E24A-4C2D-A265-62963A53F0B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9685A4E-902B-4FE0-BE2D-7F78DE604D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9685A4E-902B-4FE0-BE2D-7F78DE604D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9685A4E-902B-4FE0-BE2D-7F78DE604D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9685A4E-902B-4FE0-BE2D-7F78DE604D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38F8610C-727B-4579-8973-C0C88E24D86C}
+	EndGlobalSection
+EndGlobal
